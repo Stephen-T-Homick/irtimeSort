@@ -1,6 +1,5 @@
 #!/usr/bin/python3
 
-# Written by Stephen Homick - Team Lead, Security Operations (CIRT)
 # April 2023
 # Purpose: The purpose of this script is to extract timestamp information from multiple log files that are provided in CSV or Excel format, and organize them into a single, master timeline. 
 ## Once this timeline is achieved, this can be used in a forensic report.
